@@ -30,5 +30,5 @@ done
 
 
 #####################Registros#######################
-##Nombre	Apellido1	Apellido2	Fecha
+##Nombre	Apellido1	Apellido2	Fecha (DD/MM)
 ##foo		bar		-		15/01
