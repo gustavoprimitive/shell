@@ -1,6 +1,6 @@
 #!/bin/bash
-#Búsqueda de varios patrones en el contenido de varios ficheros comprimidos (.gz) línea a línea.
-#Si se ha encontrado una ocurrencia de uno de los patrones, se excluye en las siguientes búsquedas.
+#Search multiple patterns inside gziped files line by line.
+#When a pattern is found, it will be not used again.
 #Gustavo Tejerina
 
 workingDir='/home/gustavo'
