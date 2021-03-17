@@ -1,7 +1,6 @@
 #!/bin/bash
-#Avisador de cumpleaños. Comprueba si la fecha del sistema coincide con la fecha del bloque de registros, y en caso afirmativo muestra un mensaje de aviso.
-#Lo más útil es disparar la ejecución desde cron u otro planificador de tareas. Por ejemplo, al inicio de sesión en el SO.
-#Requiere tener instalada la utilidad Zenity.
+#Comprueba si la fecha del sistema coincide con la fecha del bloque de registros, y en caso afirmativo muestra un mensaje de aviso.
+#Dependencia con Zenity.
 #Gustavo Tejerina
 
 #Fecha del sistema
