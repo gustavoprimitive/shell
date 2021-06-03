@@ -2,11 +2,11 @@
 #Generación de túneles con fwd de puertos por intervalos
 
 #Host remoto
-HOST="10.51.1.19"
+HOST=""
 #Host empleado como pasarela, usuario de login en el mismo y su certificado
-GATEWAY="34.247.206.167"
-USER="ubuntu"
-CERT_FILE="DTAVLL_ppk.ppk"
+GATEWAY=""
+USER=""
+CERT_FILE=""
 
 COMMAND="ssh -L 6000:${HOST}:6000 ${USER}@${GATEWAY} "
 
