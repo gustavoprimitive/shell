@@ -1,6 +1,6 @@
 #!/bin/bash
 #Search multiple patterns inside gziped files line by line.
-#When a pattern is found, it will be not used again.
+#When a pattern is found, it will not be used again.
 #Gustavo Tejerina
 
 workingDir='/home/gustavo'
